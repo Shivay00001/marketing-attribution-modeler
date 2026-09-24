@@ -1,0 +1,7 @@
+journey_id,channel,timestamp,converted,conversion_value
+J1,email,2024-01-01T10:00:00,1,100
+J1,social,2024-01-03T10:00:00,1,100
+J1,search,2024-01-05T10:00:00,1,100
+J2,social,2024-02-01T09:00:00,1,60
+J2,email,2024-02-08T09:00:00,1,60
+J3,email,2024-03-01T10:00:00,0,0
